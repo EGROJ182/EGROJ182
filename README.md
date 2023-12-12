@@ -3,7 +3,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 <header>
-  <h1 align="center" style="color: blue;">Hi 👋, I'm JORGE VEGA</h1>
+  <h1 align="center" style="color: blue;">Hi 👋, I'm JORGE VEGA <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
 
