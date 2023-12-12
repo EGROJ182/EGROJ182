@@ -10,8 +10,7 @@
                     animation: mymove 2s infinite;
                 }
                 h1:hover {
-                    cursor: pointer;
-                    animation: mymove 2s infinite;
+                    background-color: black;
                 }
     
                 @keyframes mymove {
