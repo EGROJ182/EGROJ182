@@ -9,6 +9,10 @@
                     color: red;
                     animation: mymove 2s infinite;
                 }
+                h1:hover {
+                    cursor: pointer;
+                    animation: mymove 2s infinite;
+                }
     
                 @keyframes mymove {
                     from {
