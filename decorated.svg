@@ -4,15 +4,12 @@
             <style>
                 header {
                     text-align: center;
+                    justify-content: center;
                 }
                 h1 {
                     color: red;
                     animation: mymove 2s infinite;
                 }
-                h1:hover {
-                    background-color: black;
-                }
-    
                 @keyframes mymove {
                     from {
                         color: red;
