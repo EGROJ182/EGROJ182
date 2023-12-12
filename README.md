@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="decorated.svg" width="100%" height="100%" alt="css-in-readme">
+</div>
 <header background-color=red>
   <h1 align="center">Hi 👋, I'm JORGE VEGA</h1>
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
