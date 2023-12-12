@@ -1,5 +1,5 @@
-<div align="center">
-    <img src="decorated.svg" width="500px" height="200px" alt="css-in-readme">
+<div>
+    <img src="decorated.svg" width="846px" height="200px" alt="css-in-readme">
 </div>
 <!---<header background-color=red>
   <h1 align="center">Hi 👋, I'm JORGE VEGA</h1>
