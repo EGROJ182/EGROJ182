@@ -2,6 +2,9 @@
     <foreignObject width="400px" height="100px">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+                body{
+                    background-color: black;
+                }
                 header {
                     background-color: black;
                     text-align: center;
