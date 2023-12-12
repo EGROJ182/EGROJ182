@@ -1,4 +1,4 @@
-## ![plot](./prueba.svg)
+<link rel="stylesheet" href="./style.css">
 <header>
   <h1 align="center">Hi 👋, I'm JORGE VEGA</h1>
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
