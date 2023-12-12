@@ -24,12 +24,12 @@
         }
     </style>
 
-    <g class="title">
+    <h1 class="title">
         <rect rx="5" width="100%" height="100%"></rect>
         <text x="50%" y="50%" width="100%" font-weight="bold" fill="yellow" >Hi 👋, I'm JORGE VEGA</text>
-    </g>
-    <g class="subtitle">
+    </h1>
+    <p class="subtitle">
         <rect rx="5" width="100%" height="100%"></rect>
         <text x="50%" y="50%" width="100%" font-weight="bold" fill="yellow" >A passionate fullStack developer from Colombia</text>
-    </g>
+    </p>
 </svg>
