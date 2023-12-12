@@ -7,6 +7,7 @@
                     color: white;
                     animation: mymove 2s infinite;
                     text-shadow: red 2px 3px 5px;
+                    background: red;
                 }
                 @keyframes mymove {
                     from {
