@@ -3,6 +3,8 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 h1 {
+                    width: 100%;
+                    height: 100%;
                     color: red;
                     animation: mymove 2s infinite;
                     text-shadow: red 2px 2px 3px;
