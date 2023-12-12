@@ -1,5 +1,5 @@
 <header background-color=red>
-  <h1 align="center" background-color=red>Hi 👋, I'm JORGE VEGA</h1>
+  <h1 align="center";background-color=red>Hi 👋, I'm JORGE VEGA</h1>
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
 <div>
