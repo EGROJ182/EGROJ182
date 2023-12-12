@@ -1,16 +1,17 @@
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
 <header>
   <h1 align="center" style="color: blue;">Hi 👋, I'm JORGE VEGA</h1>
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
-
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egroj182" alt="egroj182" /></a> </p>
 </div>
+
 <div>
   - 🔭 I’m currently working on **Freelance**
   
@@ -30,6 +31,7 @@
   
   - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
 </div>
+
 <div>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -42,6 +44,7 @@
     <a href="https://wa.me/+573026197035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@jorgevega182" height="30" width="40" /></a>
   </p>
 </div>
+
 <div>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
@@ -89,8 +92,11 @@
     <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a>
   </p>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egroj182&show_icons=true&locale=en" alt="egroj182" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egroj182&show_icons=true&locale=en" alt="egroj182" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
+</div>
