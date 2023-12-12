@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" position="absolute">
     <img src="decorated.svg" width="894px" height="200px" alt="css-in-readme">
 </div>
 <!---<header background-color=red>
