@@ -48,6 +48,6 @@
 
 <style>
   body{
-    background-color: rgba(255, 255, 255, 0.575);
+    background-color: black;
   }
 </style>
