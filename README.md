@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm JORGE VEGA</h1>
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
-<div>
+<div style="background-color: black";>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egroj182" alt="egroj182" /></a> </p>
@@ -45,9 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egroj182&show_icons=true&locale=en" alt="egroj182" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
-
-<style>
-  body{
-    background-color: black;
-  }
-</style>
