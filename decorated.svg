@@ -5,7 +5,7 @@
                 h1, h3 {
                     width: max-content;
                     height: max-content;
-                    color: black;
+                    color: white;
                     animation: mymove 2s infinite;
                     text-shadow: red 2px 2px 3px;
                 }
