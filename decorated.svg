@@ -7,7 +7,7 @@
                     height: max-content;
                     color: white;
                     animation: mymove 2s infinite;
-                    text-shadow: red 2px 2px 3px;
+                    text-shadow: red 2px 2px 5px;
                 }
                 @keyframes mymove {
                     from {
