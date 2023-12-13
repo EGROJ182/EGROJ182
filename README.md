@@ -3,9 +3,9 @@
 [![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=followers&style=social)](https://github.com/EGROJ182)
 [![StackOverflow EGROJ182](https://img.shields.io/stackexchange/stackoverflow/r/21076535?color=orange&label=reputation&logo=stackoverflow&style=social)](https://stackoverflow.com/users/21076535)
 [![Facebook](https://img.shields.io/badge/Facebook-%40ALUCARD182-blue?logo=facebook)](https://www.facebook.com/alucardegroj)
-[![Instagram](https://img.shields.io/badge/Instagram-EGROJ182-red)](https://instagram.com/egroj182)
-[![YouTube](https://img.shields.io/badge/YouTube-%40ALUCARD5785-red)](https://www.youtube.com/@alucard5785/featured)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%40Jorge_Vega-green)](https://www.hackerrank.com/jorgevega182)
+[![Instagram](https://img.shields.io/badge/Instagram-EGROJ182-red?logo=instagram)](https://instagram.com/egroj182)
+[![YouTube](https://img.shields.io/badge/YouTube-%40ALUCARD5785-red?logo=youtube)](https://www.youtube.com/@alucard5785/featured)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%40Jorge_Vega-green?logo=hackerrank)](https://www.hackerrank.com/jorgevega182)
 <br>
 <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100px">
 <div>
