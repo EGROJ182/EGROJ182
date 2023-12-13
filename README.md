@@ -96,7 +96,7 @@
   </p>
 </div>
 
-<img align="center" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="33%">
+<img align='center' src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100px">
 
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>
