@@ -2,10 +2,10 @@
 [![Linkedin: ALUCARD 182](https://img.shields.io/badge/-ALUCARD_182-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
 [![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=followers&style=social)](https://github.com/EGROJ182)
 [![StackOverflow EGROJ182](https://img.shields.io/stackexchange/stackoverflow/r/21076535?color=orange&label=reputation&logo=stackoverflow&style=social)](https://stackoverflow.com/users/21076535)
-[![Facebook: ALUCARD182](https://img.shields.io/badge/Facebook-%40ALUCARD182-blue)](https://www.facebook.com/alucardegroj)
-[![Instagram: EGROJ182](https://img.shields.io/badge/Instagram-EGROJ182-red)](https://instagram.com/egroj182)
-[![YouTube: ALUCARD5785](https://img.shields.io/badge/YouTube-%40ALUCARD5785-red)](https://www.youtube.com/@alucard5785/featured)
-[![HackerRank: EGROJ182](https://img.shields.io/badge/HackerRank-%40Jorge_Vega-green)](https://www.hackerrank.com/jorgevega182)
+[![Facebook](https://img.shields.io/badge/Facebook-%40ALUCARD182-blue?logo=facebook)](https://www.facebook.com/alucardegroj)
+[![Instagram](https://img.shields.io/badge/Instagram-EGROJ182-red)](https://instagram.com/egroj182)
+[![YouTube](https://img.shields.io/badge/YouTube-%40ALUCARD5785-red)](https://www.youtube.com/@alucard5785/featured)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%40Jorge_Vega-green)](https://www.hackerrank.com/jorgevega182)
 <br>
 <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100px">
 <div>
