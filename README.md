@@ -20,6 +20,8 @@
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
 
+<img align='left' src="https://lh3.googleusercontent.com/pw/ADCreHeAMpmo4fzcycZ0fV_697Thbz5J7us_1v0jiVsCPtVhyJ9dkmbuvubtj2d6TsKfPM6yzKolDD1xnBB-_lIsuVuhD-yiSHpocMmqzPv9T7e8YsDdKdYIu9Fb2Tqagfv07ie798LNS9iBg9Fhc2erJLOvTA=w1460-h821-s-no-gm?authuser=1" width="100%">
+
 <div>
   <div align="left">
   - 🔭 I’m currently working on **Freelance**
