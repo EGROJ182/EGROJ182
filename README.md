@@ -1,13 +1,15 @@
 [![Twitter: ALUCARD 182](https://img.shields.io/twitter/follow/ALUCARD_182?style=social)](https://twitter.com/ALUCARD_EGROJ)
 [![Linkedin: ALUCARD 182](https://img.shields.io/badge/-ALUCARD_182-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
 [![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=follow&style=social)](https://github.com/EGROJ182)
+[![StackOverFlow EGROJ182](https://img.shields.io/stackoverflow/followers/21076535?label=follow&style=social)](https://stackoverflow.com/users/21076535)
+
+<a href="https://stackoverflow.com/users/21076535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21076535" height="30" width="40" /></a>
 <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100px">
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egroj182" alt="egroj182" /></a> </p>
 </div>
 
-<!---<img align='center' src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">-->
 <img align='center' src="https://lh3.googleusercontent.com/pw/ADCreHeAMpmo4fzcycZ0fV_697Thbz5J7us_1v0jiVsCPtVhyJ9dkmbuvubtj2d6TsKfPM6yzKolDD1xnBB-_lIsuVuhD-yiSHpocMmqzPv9T7e8YsDdKdYIu9Fb2Tqagfv07ie798LNS9iBg9Fhc2erJLOvTA=w1460-h821-s-no-gm?authuser=1" width="100%">
 
 <header align="center">
