@@ -41,7 +41,7 @@
 </div>
 
 <div>
-  <h3 align="right">Connect with me:</h3>
+  <h3 align="start">Connect with me:</h3>
   <p align="right">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/21076535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21076535" height="30" width="40" /></a>
