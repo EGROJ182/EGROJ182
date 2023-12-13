@@ -21,7 +21,7 @@
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
 
-<img align='left' src="https://media3.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="230">
+<img align='left' src="https://lh3.googleusercontent.com/pw/ADCreHeujW9VF4tiN8lA1_JUkGUEzYcMDDc1CFEtE3Zic_F_bd7tXx2OVh6jqkqkSpFNhrx0mtZNuHhE23F5_QeXGX0L-endsNAxabf_b0AM-Tjxpus1ZL-mmb-5BawCA_Fvfos50OPulyySExfT6FI9WcS0eA=w821-h821-s-no-gm?authuser=1" width="230">
 <div>
   <div align="left">
   - 🔭 I’m currently working on **Freelance**
