@@ -10,7 +10,7 @@
 <div>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
   <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="120px">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egroj182" alt="egroj182" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=egroj182" alt="egroj182" /> </a> </p>
 </div>
 
 <img align='center' src="https://lh3.googleusercontent.com/pw/ADCreHeAMpmo4fzcycZ0fV_697Thbz5J7us_1v0jiVsCPtVhyJ9dkmbuvubtj2d6TsKfPM6yzKolDD1xnBB-_lIsuVuhD-yiSHpocMmqzPv9T7e8YsDdKdYIu9Fb2Tqagfv07ie798LNS9iBg9Fhc2erJLOvTA=w1460-h821-s-no-gm?authuser=1" width="100%">
