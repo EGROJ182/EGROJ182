@@ -1,7 +1,7 @@
 [![Twitter: ALUCARD 182](https://img.shields.io/twitter/follow/ALUCARD_182?style=social)](https://twitter.com/ALUCARD_EGROJ)
 [![Linkedin: ALUCARD 182](https://img.shields.io/badge/-ALUCARD_182-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
 [![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=follow&style=social)](https://github.com/EGROJ182)
-[![StackOverFlow EGROJ182](https://img.shields.io/stackoverflow/followers/21076535?label=follow&style=social)](https://stackoverflow.com/users/21076535)
+[![StackOverFlow EGROJ182](https://img.shields.io/stackoverflow/21076535?style=social)](https://stackoverflow.com/users/21076535)
 
 <a href="https://stackoverflow.com/users/21076535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21076535" height="30" width="40" /></a>
 <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100px">
