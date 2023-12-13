@@ -96,6 +96,10 @@
   </p>
 </div>
 
+<div>
+  <img align='center' src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="33%">
+</div>
+
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>
   
@@ -104,7 +108,4 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
 </div>
 
-<div>
-  <img align='center' src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="33%">
-</div>
 <img src="https://lh3.googleusercontent.com/pw/ADCreHd_3-1U8Yivgcgkt0yuvcv6I_qU_bLHklqpkiJO-yPQBuJIdLkDPVYv6bEK_0XK9-c-IiAMglsskKgr5AEKLuKqbXzn47dF2DlagLOOKH3wMSqjzxB2vCwOvepFtrJ0BByqpePJZbnS-e_yUefeiRfwIQ=w718-h821-s-no-gm?authuser=1" width="100px">
