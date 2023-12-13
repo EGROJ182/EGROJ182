@@ -2,6 +2,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 <!---<img align='center' src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">-->
+<img align='center' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="300">
 <header align="center">
   <img align='right' src="https://media3.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="230">
   <h1 align="center" style="color: blue;">Hi 👋, I'm JORGE VEGA <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50"></h1>
