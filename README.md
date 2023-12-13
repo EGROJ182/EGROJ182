@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-EGROJ182-red?logo=instagram)](https://instagram.com/egroj182)
 [![YouTube](https://img.shields.io/badge/YouTube-%40ALUCARD5785-red?logo=youtube)](https://www.youtube.com/@alucard5785/featured)
 
-[![Twitter](https://img.shields.io/twitter/follow/ALUCARD_182?style=social)](https://twitter.com/ALUCARD_EGROJ)
+[![Twitter](https://img.shields.io/twitter/follow/ALUCARD_182?logo=twitter)](https://twitter.com/ALUCARD_EGROJ)
 
 <br>
 <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="120px">
