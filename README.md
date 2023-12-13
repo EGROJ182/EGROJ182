@@ -4,7 +4,7 @@
 
 <header align="center">
   <h1 align="center" style="color: blue;">Hi 👋, I'm JORGE VEGA <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+  <img align='right' src="https://media3.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="230">
   <p><a href="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1">via GIPHY</a></p>
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
