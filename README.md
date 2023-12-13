@@ -3,6 +3,8 @@
 [![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=follow&style=social)](https://github.com/EGROJ182)
 [![StackOverflow EGROJ182](https://img.shields.io/stackexchange/stackoverflow/r/21076535?color=orange&label=reputation&logo=stackoverflow&style=social)](https://stackoverflow.com/users/21076535)
 
+[![GitHub Followers](https://img.shields.io/github/followers/EGROJ182?label=Followers&style=social)](https://github.com/EGROJ182)
+
 <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100px">
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
