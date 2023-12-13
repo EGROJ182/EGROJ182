@@ -42,7 +42,7 @@
 
 <div>
   <h3 align="left">Connect with me:</h3>
-  <path align="right">
+  <div align="right">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/21076535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21076535" height="30" width="40" /></a>
     <a href="https://fb.com/https://www.facebook.com/alucardegroj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alucardegroj" height="30" width="40" /></a>
@@ -50,12 +50,12 @@
     <a href="https://www.youtube.com/c/https://www.youtube.com/@alucard5785/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alucard5785/featured" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/@jorgevega182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jorgevega182" height="30" width="40" /></a>
 <!---<a href="https://wa.me/+573026197035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@jorgevega182" height="30" width="40" /></a>-->
-  </path>
+  </div>
 </div>
 
 <div>
   <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+  <div align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
@@ -98,7 +98,7 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a>
-  </p>
+  </div>
 </div>
 
 <div align="center">
