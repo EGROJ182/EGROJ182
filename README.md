@@ -106,5 +106,5 @@
 </div>
 
 <img src="https://lh3.googleusercontent.com/pw/ADCreHd_3-1U8Yivgcgkt0yuvcv6I_qU_bLHklqpkiJO-yPQBuJIdLkDPVYv6bEK_0XK9-c-IiAMglsskKgr5AEKLuKqbXzn47dF2DlagLOOKH3wMSqjzxB2vCwOvepFtrJ0BByqpePJZbnS-e_yUefeiRfwIQ=w718-h821-s-no-gm?authuser=1" width="100px">
-<a href="https://wa.me/+573026197035" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@jorgevega182" height="30" width="40" /></a>
+<a href="https://wa.me/+573026197035" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@jorgevega182" height="30" width="100" /></a>
   </p>
