@@ -7,7 +7,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%40ALUCARD5785-red?logo=youtube)](https://www.youtube.com/@alucard5785/featured)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%40Jorge_Vega-green?logo=hackerrank)](https://www.hackerrank.com/jorgevega182)
 <br>
-<img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="200px">
+<img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="120px">
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egroj182" alt="egroj182" /></a> </p>
