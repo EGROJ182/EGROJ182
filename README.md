@@ -1,4 +1,4 @@
-[![Twitter: ALUCARD 182](https://img.shields.io/twitter/follow/ALUCARD_182?logo=twitter)](https://twitter.com/ALUCARD_EGROJ)
+[![Twitter: ALUCARD 182](https://img.shields.io/twitter/follow/ALUCARD_182-black?logo=twitter)](https://twitter.com/ALUCARD_EGROJ)
 [![Linkedin: ALUCARD 182](https://img.shields.io/badge/-ALUCARD_182-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
 [![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=followers&style=social)](https://github.com/EGROJ182)
 [![StackOverflow EGROJ182](https://img.shields.io/stackexchange/stackoverflow/r/21076535?color=orange&label=reputation&logo=stackoverflow&style=social)](https://stackoverflow.com/users/21076535)
