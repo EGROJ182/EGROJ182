@@ -1,6 +1,6 @@
 [![Twitter: ALUCARD 182](https://img.shields.io/twitter/follow/ALUCARD_182?style=social)](https://twitter.com/ALUCARD_EGROJ)
 [![Linkedin: ALUCARD 182](https://img.shields.io/badge/-ALUCARD_182-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=follow&style=social)](https://github.com/EGROJ182)
 <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100px">
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
