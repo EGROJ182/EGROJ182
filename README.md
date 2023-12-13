@@ -7,6 +7,7 @@
   <img align='right' src="https://media3.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="230">
   <h1 align="center" color="blue">Hi 👋, I'm JORGE VEGA</h1>
   <p><a href="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">via GIPHY</a></p>
+  <img align='right' src="https://media3.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="230" <p>Hola</p>>
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
 <div>
