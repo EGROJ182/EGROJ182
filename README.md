@@ -3,8 +3,7 @@
 [![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=follow&style=social)](https://github.com/EGROJ182)
 [![StackOverflow EGROJ182](https://img.shields.io/stackexchange/stackoverflow/r/21076535?color=orange&label=Follow%20on%20StackOverflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/21076535)
 
-[![GitHub EGROJ182](https://img.shields.io/github/followers/EGROJ182?label=Followers%20on%20GitHub&style=social)](https://github.com/EGROJ182)
-[![StackOverflow EGROJ182](https://img.shields.io/stackexchange/stackoverflow/r/21076535?label=Reputation%20on%20StackOverflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/21076535)
+[![StackOverflow Stats](https://img.shields.io/badge/StackOverflow-Reputation%3A%20145k%20%7C%20Followers%3A%202k-blue)](https://stackoverflow.com/users/21076535)
 
 
 <a href="https://stackoverflow.com/users/21076535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21076535" height="30" width="40" /></a>
