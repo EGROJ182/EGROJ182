@@ -38,6 +38,16 @@
   - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
   
   - 📫 How to reach me **jorgevega182@hotmail.com**
+
+  <details>
+  <summary>hotmail</summary>
+<div align="right">
+ 
+``` js
+const mail = jorgevega182@hotmail.com
+```
+  </div>
+</details>
   
   - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
   
