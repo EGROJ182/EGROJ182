@@ -42,7 +42,7 @@
     <div align="right">
 
     ``` js
-    const mail = jorgevega182@hotmail.com
+    const mail = 'jorgevega182@hotmail.com'
     ```
     </div>
   </details> 
