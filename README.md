@@ -8,6 +8,8 @@
 [![Twitter](https://img.shields.io/twitter-%40ALUCARD_EGROJ-blue?&logo=twitter)](https://twitter.com/ALUCARD_EGROJ)
 [![Hotmail](https://img.shields.io/badge/@mail-%40Jorge_Vega-blue)](mailto:jorgevega182@hotmail.com)
 
+<a href="https://twitter.com/intent/tweet?button_hashtag=followers&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #followers</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div>
   
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
