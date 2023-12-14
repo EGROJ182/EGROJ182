@@ -117,15 +117,15 @@
 
 <details>
   <summary> More about me</summary>
-  <div align="rigth">
+  <div align="right">
   ``` py
   egroj182 = {
-      info: {
-          full_name: 'Jorge Vega',
-          birth_date: '1994-01-28',
-          pronouns: 'he' | 'hem',
-          interests: ['developer', 'games', 'language learning', 'anime', 'motorcycles'],
-          motivation: [
+      'info': {
+          'full_name': 'Jorge Vega',
+          'birth_date': '1994-01-28',
+          'pronouns': ['he', 'hem'],
+          'interests': ['developer', 'games', 'language learning', 'anime', 'motorcycles'],
+          'motivation': [
               'Learn day by day, to make our lives simpler, more enjoyable, and more fun and help our planet. Giving back something of so much that we have taken from him.',
               'I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.',
           ],
