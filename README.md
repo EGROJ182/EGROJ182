@@ -1,5 +1,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%40Jorge_Vega-green?logo=hackerrank)](https://www.hackerrank.com/jorgevega182)
 [![Linkedin](https://img.shields.io/badge/-ALUCARD_182-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
+[![Hotmail](https://img.shields.io/badge/Hotmail-%40jorgevega182-orange)](mailto:jorgevega182@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/EGROJ182?label=followers&logo=github)](https://github.com/EGROJ182)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/21076535?color=orange&label=Reputation&logo=stackoverflow)](https://stackoverflow.com/users/21076535)
 [![Facebook](https://img.shields.io/badge/Facebook-%40ALUCARD182-blue?logo=facebook)](https://www.facebook.com/alucardegroj)
