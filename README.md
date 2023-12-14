@@ -24,23 +24,23 @@
 <img align='left' src="https://lh3.googleusercontent.com/pw/ADCreHeujW9VF4tiN8lA1_JUkGUEzYcMDDc1CFEtE3Zic_F_bd7tXx2OVh6jqkqkSpFNhrx0mtZNuHhE23F5_QeXGX0L-endsNAxabf_b0AM-Tjxpus1ZL-mmb-5BawCA_Fvfos50OPulyySExfT6FI9WcS0eA=w821-h821-s-no-gm?authuser=1" width="230">
 <div>
   <div align="left">
-  - 🔭 I’m currently working on **Freelance**
+    - 🔭 I’m currently working on **Freelance**
+    
+    - 🌱 I’m currently learning **various technologies**
+    
+    - 👯 I’m looking to collaborate on **creative and innovative projects**
+    
+    - 🤝 I’m looking for help with **English**
+    
+    - 📝 I regularly write articles on [technologies](technologies)
+    
+    - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
   
-  - 🌱 I’m currently learning **various technologies**
-  
-  - 👯 I’m looking to collaborate on **creative and innovative projects**
-  
-  - 🤝 I’m looking for help with **English**
-  
-  - 📝 I regularly write articles on [technologies](technologies)
-  
-  - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
-
-  - 📫 How to reach me **jorgevega182@hotmail.com**
-  
-  - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
-  
-  - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
+    - 📫 How to reach me **jorgevega182@hotmail.com**
+    
+    - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
+    
+    - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
   </div>
 </div>
 
@@ -105,11 +105,7 @@
   </div>
 </div>
 <br>
-<div id='content-report' align="center">
-  ``` js
-  const content = document.getElementById('content-report');
-  content.style.color = "red";
-  ```
+<div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>  
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=egroj182&show_icons=true&locale=en" alt="egroj182" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
