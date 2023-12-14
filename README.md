@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%40ALUCARD182-blue?logo=facebook)](https://www.facebook.com/alucardegroj)
 [![Instagram](https://img.shields.io/badge/Instagram-%40EGROJ182-red?logo=instagram)](https://instagram.com/egroj182)
 [![YouTube](https://img.shields.io/badge/YouTube-%40ALUCARD5785-red?logo=youtube)](https://www.youtube.com/@alucard5785/featured)
-[![Twitter](https://img.shields.io/twitter/follow/ALUCARD_EGROJ?&logo=twitter)](https://twitter.com/ALUCARD_EGROJ)
+[![Twitter](https://img.shields.io/twitter/follow-%40ALUCARD_EGROJ-blue?&logo=twitter)](https://twitter.com/ALUCARD_EGROJ)
 [![Hotmail](https://img.shields.io/badge/@mail-%40Jorge_Vega-blue)](mailto:jorgevega182@hotmail.com)
 
 <div>
