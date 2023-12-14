@@ -36,8 +36,8 @@
   
   - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
 
-  - 📫 How to reach me [!(https://img.shields.io/badge/Hotmail-blue)](mailto:jorgevega182@hotmail.com)
-  <!---**jorgevega182@hotmail.com**-->
+  - 📫 How to reach me **jorgevega182@hotmail.com**
+  
   - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
   
   - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
@@ -121,9 +121,9 @@
  
 ``` js
 const egroj182 = {
-    personal: {
-        fullName: 'Jorge Vega',
-        birthDate: '1994-01-28',
+    info: {
+        full_name: 'Jorge Vega',
+        birth_date: '1994-01-28',
         pronouns: 'he' | 'hem',
         interests: ['developer', 'games', 'language learning', 'anime', 'motorcycles'],
         motivation: [
@@ -133,12 +133,12 @@ const egroj182 = {
     },
     technical: {
         technologies: {
-            frontEnd: {
+            front_end: {
                 Javascript: ['Vanilla JS', 'React', 'Redux', 'Jest'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
-            backEnd: {
+            back_end: {
                 Javascript: ['Node.js', 'Express']
             },
             architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
