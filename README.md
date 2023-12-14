@@ -130,6 +130,7 @@
               'I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.',
           ],
       }
+  }
   ```
   </div>
 </details>
