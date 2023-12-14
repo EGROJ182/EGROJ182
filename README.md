@@ -1,4 +1,3 @@
-<header>
 [![HackerRank](https://img.shields.io/badge/HackerRank-%40Jorge_Vega-green?logo=hackerrank)](https://www.hackerrank.com/jorgevega182)
 [![Linkedin](https://img.shields.io/badge/-ALUCARD_182-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
 [![GitHub](https://img.shields.io/github/followers/EGROJ182?label=followers&logo=github)](https://github.com/EGROJ182)
@@ -16,6 +15,7 @@
 
 <img align='center' src="https://lh3.googleusercontent.com/pw/ADCreHeAMpmo4fzcycZ0fV_697Thbz5J7us_1v0jiVsCPtVhyJ9dkmbuvubtj2d6TsKfPM6yzKolDD1xnBB-_lIsuVuhD-yiSHpocMmqzPv9T7e8YsDdKdYIu9Fb2Tqagfv07ie798LNS9iBg9Fhc2erJLOvTA=w1460-h821-s-no-gm?authuser=1" width="100%">
 
+<header>
   <h1 align="center" color="blue">Hi 👋, I'm Jorge Vega</h1>
   <img align='right' src="https://media3.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="230">
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
@@ -113,27 +113,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
 </div>
 
-<details>
-  <summary>JavaScript</summary>
-<div align="left">
-
-``` js
-const egroj182 = {
-    info: {
-        full_name: 'Jorge Vega',
-        birth_date: '1994-01-28',
-        pronouns: 'he' | 'hem',
-        interests: ['developer', 'games', 'language learning', 'anime', 'motorcycles'],
-        motivation: [
-            'Learn day by day, to make our lives simpler, more enjoyable, and more fun and help our planet. Giving back something of so much that we have taken from him.',
-            'I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.',
-        ]
-    }
-}
-```
-</div>
-</details>
-
+<div>
 <details>
   <summary>Python</summary>
 <div align="left">
@@ -148,6 +128,27 @@ egroj182 = {
         'motivation': [
             'Learn day by day, to make our lives simpler, more enjoyable, and more fun and help our planet. Giving back something of so much that we have taken from him.',
             'I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.'
+        ]
+    }
+}
+```
+</div>
+</details>
+
+<details>
+  <summary>JavaScript</summary>
+<div align="left">
+
+``` js
+const egroj182 = {
+    info: {
+        full_name: 'Jorge Vega',
+        birth_date: '1994-01-28',
+        pronouns: 'he' | 'hem',
+        interests: ['developer', 'games', 'language learning', 'anime', 'motorcycles'],
+        motivation: [
+            'Learn day by day, to make our lives simpler, more enjoyable, and more fun and help our planet. Giving back something of so much that we have taken from him.',
+            'I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.',
         ]
     }
 }
@@ -290,6 +291,8 @@ class Egroj182 {
 ```
 </div>
 </details>
+
+<div>
 
 <a href="https://wa.me/+573026197035" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@jorgevega182" width="60px" /></a>
 <img src="https://lh3.googleusercontent.com/pw/ADCreHd_3-1U8Yivgcgkt0yuvcv6I_qU_bLHklqpkiJO-yPQBuJIdLkDPVYv6bEK_0XK9-c-IiAMglsskKgr5AEKLuKqbXzn47dF2DlagLOOKH3wMSqjzxB2vCwOvepFtrJ0BByqpePJZbnS-e_yUefeiRfwIQ=w718-h821-s-no-gm?authuser=1" width="100px">
