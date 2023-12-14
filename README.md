@@ -37,7 +37,15 @@
   
   - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
   
-  - 📫 How to reach me **jorgevega182@hotmail.com**
+  - 📫 How to reach me <summary>hotmail</summary>
+<div align="right">
+ 
+``` js
+const mail = jorgevega182@hotmail.com
+```
+  </div>
+  
+<!---  - 📫 How to reach me **jorgevega182@hotmail.com**-->
 
   <details>
   <summary>hotmail</summary>
