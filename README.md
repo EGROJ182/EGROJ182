@@ -156,3 +156,95 @@ egroj182 = {
 ```
 </div>
 </details>
+
+<details>
+  <summary>Python</summary>
+<div align="left">
+ 
+``` java
+import java.util.ArrayList;
+import java.util.List;
+
+public class Egroj182 {
+    public static void main(String[] args) {
+        Info info = new Info();
+        info.setFullName("Jorge Vega");
+        info.setBirthDate("1994-01-28");
+        info.setPronouns("he");
+        info.setInterests(new ArrayList<String>() {{
+            add("developer");
+            add("games");
+            add("language learning");
+            add("anime");
+            add("motorcycles");
+        }});
+        info.setMotivation(new ArrayList<String>() {{
+            add("Learn day by day, to make our lives simpler, more enjoyable, and more fun and help our planet. Giving back something of so much that we have taken from him.");
+            add("I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.");
+        }});
+
+        Egroj182 egroj182 = new Egroj182();
+        egroj182.setInfo(info);
+    }
+
+    private Info info;
+
+    public Info getInfo() {
+        return info;
+    }
+
+    public void setInfo(Info info) {
+        this.info = info;
+    }
+}
+
+class Info {
+    private String fullName;
+    private String birthDate;
+    private String pronouns;
+    private List<String> interests;
+    private List<String> motivation;
+
+    public String getFullName() {
+        return fullName;
+    }
+
+    public void setFullName(String fullName) {
+        this.fullName = fullName;
+    }
+
+    public String getBirthDate() {
+        return birthDate;
+    }
+
+    public void setBirthDate(String birthDate) {
+        this.birthDate = birthDate;
+    }
+
+    public String getPronouns() {
+        return pronouns;
+    }
+
+    public void setPronouns(String pronouns) {
+        this.pronouns = pronouns;
+    }
+
+    public List<String> getInterests() {
+        return interests;
+    }
+
+    public void setInterests(List<String> interests) {
+        this.interests = interests;
+    }
+
+    public List<String> getMotivation() {
+        return motivation;
+    }
+
+    public void setMotivation(List<String> motivation) {
+        this.motivation = motivation;
+    }
+}
+```
+</div>
+</details>
