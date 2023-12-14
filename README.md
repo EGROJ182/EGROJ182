@@ -21,26 +21,28 @@
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
 </header>
 
-<img align='left' src="https://lh3.googleusercontent.com/pw/ADCreHeujW9VF4tiN8lA1_JUkGUEzYcMDDc1CFEtE3Zic_F_bd7tXx2OVh6jqkqkSpFNhrx0mtZNuHhE23F5_QeXGX0L-endsNAxabf_b0AM-Tjxpus1ZL-mmb-5BawCA_Fvfos50OPulyySExfT6FI9WcS0eA=w821-h821-s-no-gm?authuser=1" width="230">
 <div>
-  <div align="left">
-    - 🔭 I’m currently working on **Freelance**
+  <img align='left' src="https://lh3.googleusercontent.com/pw/ADCreHeujW9VF4tiN8lA1_JUkGUEzYcMDDc1CFEtE3Zic_F_bd7tXx2OVh6jqkqkSpFNhrx0mtZNuHhE23F5_QeXGX0L-endsNAxabf_b0AM-Tjxpus1ZL-mmb-5BawCA_Fvfos50OPulyySExfT6FI9WcS0eA=w821-h821-s-no-gm?authuser=1" width="230">
+  <div>
+    <div align="left">
+      - 🔭 I’m currently working on **Freelance**
+      
+      - 🌱 I’m currently learning **various technologies**
+      
+      - 👯 I’m looking to collaborate on **creative and innovative projects**
+      
+      - 🤝 I’m looking for help with **English**
+      
+      - 📝 I regularly write articles on [technologies](technologies)
+      
+      - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
     
-    - 🌱 I’m currently learning **various technologies**
-    
-    - 👯 I’m looking to collaborate on **creative and innovative projects**
-    
-    - 🤝 I’m looking for help with **English**
-    
-    - 📝 I regularly write articles on [technologies](technologies)
-    
-    - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
-  
-    - 📫 How to reach me **jorgevega182@hotmail.com**
-    
-    - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
-    
-    - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
+      - 📫 How to reach me **jorgevega182@hotmail.com**
+      
+      - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
+      
+      - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
+    </div>
   </div>
 </div>
 
