@@ -158,7 +158,7 @@ egroj182 = {
 </details>
 
 <details>
-  <summary>Python</summary>
+  <summary>Java</summary>
 <div align="left">
  
 ``` java
@@ -243,6 +243,50 @@ class Info {
 
     public void setMotivation(List<String> motivation) {
         this.motivation = motivation;
+    }
+}
+```
+</div>
+</details>
+
+<details>
+  <summary>Kotlin</summary>
+<div align="left">
+ 
+``` kt
+data class Info(
+    var fullName: String = "",
+    var birthDate: String = "",
+    var pronouns: String = "",
+    var interests: List<String> = emptyList(),
+    var motivation: List<String> = emptyList()
+)
+
+fun main() {
+    val info = Info().apply {
+        fullName = "Jorge Vega"
+        birthDate = "1994-01-28"
+        pronouns = "he"
+        interests = listOf("developer", "games", "language learning", "anime", "motorcycles")
+        motivation = listOf(
+            "Learn day by day, to make our lives simpler, more enjoyable, and more fun and help our planet. Giving back something of so much that we have taken from him.",
+            "I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind."
+        )
+    }
+    val egroj182 = Egroj182().apply {
+        setInfo(info)
+    }
+}
+
+class Egroj182 {
+    private var info: Info? = null
+
+    fun getInfo(): Info? {
+        return info
+    }
+
+    fun setInfo(info: Info) {
+        this.info = info
     }
 }
 ```
