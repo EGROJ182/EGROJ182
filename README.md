@@ -116,9 +116,9 @@
 <img src="https://lh3.googleusercontent.com/pw/ADCreHd_3-1U8Yivgcgkt0yuvcv6I_qU_bLHklqpkiJO-yPQBuJIdLkDPVYv6bEK_0XK9-c-IiAMglsskKgr5AEKLuKqbXzn47dF2DlagLOOKH3wMSqjzxB2vCwOvepFtrJ0BByqpePJZbnS-e_yUefeiRfwIQ=w718-h821-s-no-gm?authuser=1" width="100px">
 
 <details>
-  <summary> More about me</summary>
-<div align="left">
- 
+<div align="rigth">
+
+<summary> More about me</summary>
 ``` js
 const egroj182 = {
     info: {
@@ -130,21 +130,7 @@ const egroj182 = {
             'Learn day by day, to make our lives simpler, more enjoyable, and more fun and help our planet. Giving back something of so much that we have taken from him.',
             'I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.',
         ],
-    },
-    technical: {
-        technologies: {
-            front_end: {
-                Javascript: ['Vanilla JS', 'React', 'Redux', 'Jest'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap'],
-            },
-            back_end: {
-                Javascript: ['Node.js', 'Express']
-            },
-            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
-        },
     }
-}
 ```
   </div>
 </details>
