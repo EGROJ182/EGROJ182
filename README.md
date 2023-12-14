@@ -105,7 +105,7 @@
   </div>
 </div>
 <br>
-<div align="center">
+<div id='content-report-github' align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>  
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=egroj182&show_icons=true&locale=en" alt="egroj182" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
@@ -118,24 +118,10 @@
 <details>
   <summary> More about me</summary>
   <div align="right">
-  ``` py
-egroj182 = {
-    'info': {
-        'full_name': 'Jorge Vega',
-        'birth_date': '1994-01-28',
-        'pronouns': ['he', 'hem'],
-        'interests': ['developer', 'games', 'language learning', 'anime', 'motorcycles'],
-        'motivation': [
-            'Learn day by day, to make our lives simpler, more enjoyable, and more fun and help our planet. Giving back something of so much that we have taken from him.',
-            'I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.'
-        ]
-    }
-}
-  ```
-  </div>
-</details>
-
-const egroj182 = {
+  ``` js
+    const content = document.getElementById('content-report-github');
+    content.style.color = "red";
+    const egroj182 = {
       info: {
           full_name: 'Jorge Vega',
           birth_date: '1994-01-28',
@@ -146,3 +132,6 @@ const egroj182 = {
               'I love all technology, through it and in good hands anything can be achieved, there is no barrier to it; The limit is in your mind.',
           ],
       }
+  ```
+  </div>
+</details>
