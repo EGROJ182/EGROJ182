@@ -8,6 +8,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/ALUCARD_182?logo=twitter)](https://twitter.com/ALUCARD_EGROJ)
 
 <div>
+  
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=egroj182&label=Profile%20views&color=0e75b6&style=flat" alt="egroj182" /> </p>
   <img align='right' src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="120px">
   <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=egroj182" alt="egroj182" /></a> </p>
@@ -16,6 +17,7 @@
 <img align='center' src="https://lh3.googleusercontent.com/pw/ADCreHeAMpmo4fzcycZ0fV_697Thbz5J7us_1v0jiVsCPtVhyJ9dkmbuvubtj2d6TsKfPM6yzKolDD1xnBB-_lIsuVuhD-yiSHpocMmqzPv9T7e8YsDdKdYIu9Fb2Tqagfv07ie798LNS9iBg9Fhc2erJLOvTA=w1460-h821-s-no-gm?authuser=1" width="100%">
 
 <header>
+  
   <h1 align="center" color="blue">Hi 👋, I'm Jorge Vega</h1>
   <img align='right' src="https://media3.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="230">
   <h3 align="center">A passionate fullStack developer from Colombia</h3>
@@ -45,8 +47,10 @@
 </div>
 
 <div>
+  
   <h3 align="left">Connect with me:</h3>
   <div>
+    
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/21076535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21076535" height="30" width="40" /></a>
     <a href="https://fb.com/https://www.facebook.com/alucardegroj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alucardegroj" height="30" width="40" /></a>
@@ -57,9 +61,11 @@
 </div>
 
 <div>
+  
   <h3 align="left">Languages and Tools:</h3>
   <div align="left">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+    
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -105,6 +111,7 @@
 </div>
 <br>
 <div align="center">
+  
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>  
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=egroj182&show_icons=true&locale=en" alt="egroj182" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
