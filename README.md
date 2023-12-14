@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-EGROJ182-red?logo=instagram)](https://instagram.com/egroj182)
 [![YouTube](https://img.shields.io/badge/YouTube-%40ALUCARD5785-red?logo=youtube)](https://www.youtube.com/@alucard5785/featured)
 [![Twitter](https://img.shields.io/twitter/follow/ALUCARD_182?logo=twitter)](https://twitter.com/ALUCARD_EGROJ)
+[![Hotmail](https://img.shields.io/badge/Hotmail-%40Jorge_Vega-blue)](mailto:jorgevega182@hotmail.com)
 
 <div>
   
