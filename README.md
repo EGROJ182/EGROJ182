@@ -36,7 +36,7 @@
   
   - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
 
-  - 📫 How to reach me [![Hotmail](https://img.shields.io/badge/Hotmail-blue)](mailto:jorgevega182@hotmail.com)
+  - 📫 How to reach me [!(https://img.shields.io/badge/Hotmail-blue)](mailto:jorgevega182@hotmail.com)
   <!---**jorgevega182@hotmail.com**-->
   - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
   
