@@ -105,9 +105,9 @@
   </div>
 </div>
 <br>
-<div id='content-report-github' align="center">
+<div id='content-report' align="center">
   ``` js
-  const content = document.getElementById('content-report-github');
+  const content = document.getElementById('content-report');
   content.style.color = "red";
   ```
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>  
