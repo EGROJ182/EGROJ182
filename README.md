@@ -24,6 +24,7 @@
 <img align='left' src="https://lh3.googleusercontent.com/pw/ADCreHeujW9VF4tiN8lA1_JUkGUEzYcMDDc1CFEtE3Zic_F_bd7tXx2OVh6jqkqkSpFNhrx0mtZNuHhE23F5_QeXGX0L-endsNAxabf_b0AM-Tjxpus1ZL-mmb-5BawCA_Fvfos50OPulyySExfT6FI9WcS0eA=w821-h821-s-no-gm?authuser=1" width="230">
 
 <div align="left">
+  
   - 🔭 I’m currently working on **Freelance**
         
   - 🌱 I’m currently learning **various technologies**
