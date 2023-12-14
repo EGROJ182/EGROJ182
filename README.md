@@ -106,6 +106,10 @@
 </div>
 <br>
 <div id='content-report-github' align="center">
+  ``` js
+  const content = document.getElementById('content-report-github');
+  content.style.color = "red";
+  ```
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egroj182&show_icons=true&locale=en&layout=compact" alt="egroj182" /></p>  
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=egroj182&show_icons=true&locale=en" alt="egroj182" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egroj182&" alt="egroj182" /></p>
@@ -119,8 +123,6 @@
   <summary> More about me</summary>
   <div align="right">
   ``` js
-    const content = document.getElementById('content-report-github');
-    content.style.color = "red";
     const egroj182 = {
       info: {
           full_name: 'Jorge Vega',
