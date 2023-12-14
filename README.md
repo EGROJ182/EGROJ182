@@ -22,25 +22,26 @@
 </header>
 
 <img align='left' src="https://lh3.googleusercontent.com/pw/ADCreHeujW9VF4tiN8lA1_JUkGUEzYcMDDc1CFEtE3Zic_F_bd7tXx2OVh6jqkqkSpFNhrx0mtZNuHhE23F5_QeXGX0L-endsNAxabf_b0AM-Tjxpus1ZL-mmb-5BawCA_Fvfos50OPulyySExfT6FI9WcS0eA=w821-h821-s-no-gm?authuser=1" width="230">
+
 <div>
   <div align="left">
-      - 🔭 I’m currently working on **Freelance**
+    - 🔭 I’m currently working on **Freelance**
       
-      - 🌱 I’m currently learning **various technologies**
-      
-      - 👯 I’m looking to collaborate on **creative and innovative projects**
-      
-      - 🤝 I’m looking for help with **English**
-      
-      - 📝 I regularly write articles on [technologies](technologies)
-      
-      - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
+    - 🌱 I’m currently learning **various technologies**
     
-      - 📫 How to reach me **jorgevega182@hotmail.com**
+    - 👯 I’m looking to collaborate on **creative and innovative projects**
       
-      - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
+    - 🤝 I’m looking for help with **English**
       
-      - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
+    - 📝 I regularly write articles on [technologies](technologies)
+      
+    - 💬 Ask me about **Java, Python, JavaScript, SQL, HTML, CSS, React, Angular**
+    
+    - 📫 How to reach me **jorgevega182@hotmail.com**
+      
+    - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
+      
+    - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
   </div>
 </div>
 
@@ -53,14 +54,13 @@
     <a href="https://instagram.com/egroj182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egroj182" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/https://www.youtube.com/@alucard5785/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alucard5785/featured" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/@jorgevega182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jorgevega182" height="30" width="40" /></a>
-<!---<a href="https://wa.me/+573026197035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@jorgevega182" height="30" width="40" /></a>-->
   </div>
 </div>
 
 <div>
   <h3 align="left">Languages and Tools:</h3>
   <div align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
