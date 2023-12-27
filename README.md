@@ -118,7 +118,7 @@
 
 <div>
 <details>
-  <summary>Python</summary>
+  <summary>--- || --- || --- || --- || --- || --- || --- || Python || --- || --- || --- || --- || --- || ---</summary>
 <div align="left">
  
 ``` py
