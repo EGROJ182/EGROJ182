@@ -43,8 +43,6 @@
   - 📫 How to reach me **jorgevega182@hotmail.com**
         
   - 📄 Know about my experiences [https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/](https://www.linkedin.com/in/jorge-edilson-vega-acosta-279415129/)
-    
-  - 📋 Portfolio [https://portfolio-jarvis-bay.vercel.app/](https://portfolio-jarvis-bay.vercel.app/)
         
   - ⚡ Fun fact **I am passionate, outgoing, responsible, honest and with the ability to learn quickly.**
 </div>
@@ -301,6 +299,6 @@ class Egroj182 {
 
 <a href="https://wa.me/+573026197035" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@jorgevega182" width="60px" /></a>
 <a href="https://portfolio-jarvis-bay.vercel.app" target="_blank">
-  <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="@jorgevega182" width="60px" />
+  <img align="right" src="https://www.flaticon.es/icono-gratis/maletin_1066622?term=portafolio&page=1&position=10&origin=tag&related_id=1066622" alt="@jorgevega182" width="20px" />
 </a>
 <img src="https://lh3.googleusercontent.com/pw/ADCreHd_3-1U8Yivgcgkt0yuvcv6I_qU_bLHklqpkiJO-yPQBuJIdLkDPVYv6bEK_0XK9-c-IiAMglsskKgr5AEKLuKqbXzn47dF2DlagLOOKH3wMSqjzxB2vCwOvepFtrJ0BByqpePJZbnS-e_yUefeiRfwIQ=w718-h821-s-no-gm?authuser=1" width="100px">
